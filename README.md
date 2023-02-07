@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**nahuel-retamoso/nahuel-retamoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nahuel! 👋
+I'm a frontend programmer with a focus on React.
 
-Here are some ideas to get you started:
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nahuelretamoso.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-retamoso-8a468b10b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+Javascript, HTML, CSS, React, ChakraUI, Firebase, Node.
+
+🧠 I'm currently learning...
+
+- Express
+- Socket.io
+- MongoDB
