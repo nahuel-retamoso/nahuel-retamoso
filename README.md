@@ -8,7 +8,7 @@ I'm a frontend developer with a focus on React.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React, ChakraUI, Firebase, Node.
+Javascript, HTML, CSS, React, ChakraUI,Tailwind, Firebase, Node.
 
 🧠 I'm currently learning...
 
