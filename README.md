@@ -1,6 +1,4 @@
 
-# 👋
-
 `<FullstackJavascriptDeveloper/>`
 
 #### 🔗 Links
